@@ -1,0 +1,11 @@
+# FinPilot – local portfolio monitoring & analysis (no trading)
+streamlit>=1.40
+yfinance>=0.2.54
+pandas>=2.1
+numpy>=1.26
+openpyxl>=3.1
+plotly>=5.20
+reportlab>=4.0
+requests>=2.31
+python-dotenv>=1.0
+tzdata>=2024.1        # timezone database for Asia/Kolkata on Windows

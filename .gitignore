@@ -1,0 +1,15 @@
+# secrets
+.env
+# local data
+data/portfolio.db
+data/portfolio.db-wal
+data/portfolio.db-shm
+data/holdings.xlsx
+reports/*.pdf
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+data/finpilot.log
